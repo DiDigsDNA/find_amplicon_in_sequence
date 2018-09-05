@@ -1,0 +1,4 @@
+Oligonucleotide_name,Nucleotide_sequence,Type(primer/probe),Strand_orientation(F/R)
+Flu_A_Univ_F,GACCRATCCTGTCACCTCTGAC,primer,F
+Flu_A_P,TGCAGTCCTCGCTCACTGGGCACG,probe,R
+Flu_A_Univ_R,GGGCATTYTGGACAAAKCGTCTACG,primer,R

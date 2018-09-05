@@ -1,0 +1,10 @@
+name: 1_find_amplicon_in_sequence
+owner: diane
+description: Searches sequences in a nucleotide fasta file for exact matches to PCR oligonucleotides (using information contained in an oligonucleotide definition file), and outputs sequences lacking an exact match to fasta format for further analysis.
+homepage_url: https://github.com/DiDigsDNA/1_find_amplicon_in_sequence/
+long_description: This script is the first in a set of custom scripts to facilitate in-silico screening of sequences for exact PCR primers and probe hybridization sites to screen for strains of target organism that may not be detected by lab-developed PCR assays. 
+This script searches a nucleotide fasta file for an exact match to the PCR amplicon, using information from an assay-specific oligonucleotide (csv) definition file. The amplicon is created from primers and probe in the correct order, with intervening regions of 0-100 N's.
+Each query fasta sequence is read as a Biopython SeqRecord and searched for an exact match to the amplicon (or its reverse complement) - allowing degenerate bases - and sequences lacking an exact match are output
+to fasta for downstream analysis. A summary containing record IDs of non-matching sequences is printed to a text file. 
+remote_repository_url: https://github.com/DiDigsDNA/1_find_amplicon_in_sequence
+type: unrestricted
