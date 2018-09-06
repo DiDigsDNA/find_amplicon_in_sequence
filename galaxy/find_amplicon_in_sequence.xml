@@ -3,7 +3,7 @@
     <requirement type="package" version="0.0.1">find_amplicon_in_sequence</requirement>
   </requirements>
   <command detect_errors="exit_code"><![CDATA[
-    find_amplicon_in_sequence.py
+    $__tool_directory__/find_amplicon_in_sequence
     '$input_fasta'
     '$oligo_def_file'
     '$output_fasta'
@@ -15,11 +15,11 @@
   </inputs>
   <outputs>
       <data format="fasta" name="output_fasta"></data>
-      <data format="text" name="output_txt"></data>
+      <data format="txt" name="output_txt"></data>
   </outputs>
   <tests>
     <test>
-      <param name="input_fasta" value="100_FluA_H1N1_MP_Gisaid_Jan1-Sept20_2017.fasta" />
+      <param name="input_fasta" value="100_FluA_H1N1_M_2016_2017.fasta" />
       <param name="oligo_def_file" value="Flu4plex_FluA_oligo_definitions.csv" />
       <output name="output_fasta" value="output.fasta" />
       <output name="output_txt" value="output.txt" />
