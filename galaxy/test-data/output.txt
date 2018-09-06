@@ -2,119 +2,118 @@
 RESULTS OF SEARCH FOR EXACT MATCHES TO OLIGONUCLEOTIDES IN QUERY SEQUENCES:
 ---------------------------------------------------------------------------
 
-Sequences Searched: galaxy/test-data/100_FluA_H1N1_MP_Gisaid_Jan1-Sept20_2017.fasta 
+Sequences Searched: test-data/100_FluA_H1N1_M_2016_2017.fasta 
 
-Oligonucleotides Searched for: galaxy/test-data/Flu4plex_FluA_oligo_definitions.csv 
+Oligonucleotides Searched for: test-data/Flu4plex_FluA_oligo_definitions.csv 
 
-Analysis as of: Wed Sep  5 12:35:42 2018
+Analysis as of: Thu Sep  6 14:23:13 2018
 
 The following Genbank accession numbers require further analysis in Geneious:
 
 
 ---------------------------------------------------------------------------
 
-A_/_H1N1_|_A/WAKAYAMA/163/2016_|_MP|_|_970779
-A_/_H1N1_|_A/Virginia/29/2017_|_MP|_|_1041828
-A_/_H1N1_|_A/Virginia/29/2017_|_MP|_|_1017699
-A_/_H1N1_|_A/Virginia/24/2017_|_MP|_|_1000879
-A_/_H1N1_|_A/Virginia/24/2017_|_MP|_|_994300
-A_/_H1N1_|_A/Vietnam/6040/2016_|_MP|_|_980278
-A_/_H1N1_|_A/Vietnam/6039/2016_|_MP|_|_980272
-A_/_H1N1_|_A/Vietnam/6030/2016_|_MP|_|_980264
-A_/_H1N1_|_A/Vietnam/6027/2016_|_MP|_|_980310
-A_/_H1N1_|_A/Vietnam/6025/2016_|_MP|_|_1017578
-A_/_H1N1_|_A/Vietnam/6024/2016_|_MP|_|_980352
-A_/_H1N1_|_A/Vietnam/6023/2016_|_MP|_|_980344
-A_/_H1N1_|_A/Vietnam/6022/2016_|_MP|_|_980339
-A_/_H1N1_|_A/Vietnam/6020/2016_|_MP|_|_980325
-A_/_H1N1_|_A/Vietnam/6014/2016_|_MP|_|_980318
-A_/_H1N1_|_A/Vietnam/019/2016_|_MP|_|_980365
-A_/_H1N1_|_A/Victoria/2500/2016_|_MP|_|_1034326
-A_/_H1N1_|_A/India/1657/2017_|_MP|_|_989238
-A_/_H1N1_|_A/Honduras/305/2017_|_MP|_|_1056549
-A_/_H1N1_|_A/Honduras/0198/2017_|_MP|_|_1024916
-A_/_H1N1_|_A/Hebei-Xinhua/SWL1106/2017_|_MP|_|_1030322
-A_/_H1N1_|_A/Hawaii/25/2017_|_MP|_|_1041844
-A_/_H1N1_|_A/Hawaii/14/2017_|_MP|_|_980177
-A_/_H1N1_|_A/Hawaii/13/2017_|_MP|_|_992361
-A_/_H1N1_|_A/Hawaii/13/2017_|_MP|_|_980169
-A_/_H1N1_|_A/Haute_Normandie/796/2017_|_MP|_|_941440
-A_/_H1N1_|_A/Haute_Normandie/735/2017_|_MP|_|_941426
-A_/_H1N1_|_A/Hamburg/1094-MA/2009_|_MP|_|_945389
-A_/_H1N1_|_A/Guizhou-Qingzhen/SWL1345/2017_|_MP|_|_1030010
-A_/_H1N1_|_A/Guizhou-Qingzhen/SWL1331/2017_|_MP|_|_1030184
-A_/_H1N1_|_A/Guizhou-Qingzhen/SWL1331/2017_|_MP|_|_1030178
-A_/_H1N1_|_A/Guizhou-Qingzhen/1331/2017_|_MP|_|_1058870
-A_/_H1N1_|_A/Fiji/8/2016_|_MP|_|_1046618
-A_/_H1N1_|_A/Fiji/8/2016_|_MP|_|_956403
-A_/_H1N1_|_A/England/62/2016_|_MP|_|_876603
-A_/_H1N1_|_A/England/61/2016_|_MP|_|_876587
-A_/_H1N1_|_A/England/60/2016_|_MP|_|_876579
-A_/_H1N1_|_A/England/59/2016_|_MP|_|_876571
-A_/_H1N1_|_A/El_Salvador/1077/2016_|_MP|_|_870978
-A_/_H1N1_|_A/El_Salvador/973/2016_|_MP|_|_870973
-A_/_H1N1_|_A/El_Salvador/950/2016_|_MP|_|_870965
-A_/_H1N1_|_A/El_Salvador/853/2016_|_MP|_|_870957
-A_/_H1N1_|_A/Ecuador/33/2017_|_MP|_|_1039844
-A_/_H1N1_|_A/Cruz_Alta/LACENRS-499/2012_|_MP|_|_997462
-A_/_H1N1_|_A/Cruz_Alta/LACENRS-428/2016_|_MP|_|_996873
-A_/_H1N1_|_A/Costa_Rica/0513/2016_|_MP|_|_912188
-A_/_H1N1_|_A/Connecticut/45/2016_|_MP|_|_951692
-A_/_H1N1_|_A/Connecticut/45/2016_|_MP|_|_912505
-A_/_H1N1_|_A/Colorado/46/2016_|_MP|_|_912244
-A_/_H1N1_|_A/Colorado/46/2016_|_MP|_|_886639
-A_/_H1N1_|_A/Colombia/1466/2016_|_MP|_|_911933
-A_/_H1N1_|_A/Colombia/1157/2016_|_MP|_|_886631
-A_/_H1N1_|_A/Chuvisca/LACENRS-287/2011_|_MP|_|_996942
-A_/_H1N1_|_A/Chungnam/29/2016_|_MP|_|_946554
-A_/_H1N1_|_A/Chungbuk/106/2016_|_MP|_|_946553
-A_/_H1N1_|_A/Chongqing-Yuzhong/SWL1453/2017_|_MP|_|_1030076
-A_/_H1N1_|_A/Chiang_Mai/407/2016_|_MP|_|_917520
-A_/_H1N1_|_A/Chiang_Mai/60/2017_|_MP|_|_1058854
-A_/_H1N1_|_A/Chanthaburi/346/2016_|_MP|_|_980248
-A_/_H1N1_|_A/Champagne_Ardenne/750/2017_|_MP|_|_941432
-A_/_H1N1_|_A/Canoas/LACENRS-1829/2013_|_MP|_|_997035
-A_/_H1N1_|_A/Canoas/LACENRS-1320/2016_|_MP|_|_997460
-A_/_H1N1_|_A/Cambodia/FSS33072/2016_|_MP|_|_957010
-A_/_H1N1_|_A/Cambodia/FSS32978/2016_|_MP|_|_956924
-A_/_H1N1_|_A/Cambodia/FSS32944/2016_|_MP|_|_956916
-A_/_H1N1_|_A/Cambodia/AD07192/2016_|_MP|_|_956881
-A_/_H1N1_|_A/Cambodia/AD06923/2016_|_MP|_|_956873
-A_/_H1N1_|_A/Cambodia/A0625550/2016_|_MP|_|_956864
-A_/_H1N1_|_A/Camaqua/LACENRS-3512/2013_|_MP|_|_996455
-A_/_H1N1_|_A/Camaqua/LACENRS-3379/2013_|_MP|_|_996628
-A_/_H1N1_|_A/Camaqua/LACENRS-623/2011_|_MP|_|_997417
-A_/_H1N1_|_A/California/30/2017_|_MP|_|_959566
-A_/_H1N1_|_A/California/19/2017_|_MP|_|_983500
-A_/_H1N1_|_A/California/19/2017_|_MP|_|_924692
-A_/_H1N1_|_A/California/17/2017_|_MP|_|_983508
-A_/_H1N1_|_A/Caibate/LACENRS-903/2012_|_MP|_|_997390
-A_/_H1N1_|_A/Cachoeirinha/LACENRS-1083/2012_|_MP|_|_997512
-A_/_H1N1_|_A/Cachoeira_do_Sul/LACENRS-1828/2013_|_MP|_|_996417
-A_/_H1N1_|_A/Brisbane/305/2016_|_MP|_|_903890
-A_/_H1N1_|_A/Brazil/536/2017_|_MP|_|_1047135
-A_/_H1N1_|_A/Brazil/526/2017_|_MP|_|_1047127
-A_/_H1N1_|_A/Bolivia/1948/2016_|_MP|_|_870861
-A_/_H1N1_|_A/Bolivia/800/2017_|_MP|_|_1039790
-A_/_H1N1_|_A/Bolivia/346/2017_|_MP|_|_1025139
-A_/_H1N1_|_A/Beijing-Xicheng/SWL1665/2017_|_MP|_|_1030181
-A_/_H1N1_|_A/Beijing-Shunyi/SWL319/2017_|_MP|_|_1030040
-A_/_H1N1_|_A/Beijing-Huairou/SWL1660/2017_|_MP|_|_1030175
-A_/_H1N1_|_A/Beijing-Huairou/SWL1441/2017_|_MP|_|_1030301
-A_/_H1N1_|_A/Beijing-Chaoyang/SWL16/2017_|_MP|_|_944026
-A_/_H1N1_|_A/Bangladesh/59002/2017_|_MP|_|_1047047
-A_/_H1N1_|_A/Bangladesh/31/2017_|_MP|_|_1057083
-A_/_H1N1_|_A/Bangladesh/0011/2017_|_MP|_|_1046975
-A_/_H1N1_|_A/Baltimore/0158/2016_|_MP|_|_945841
-A_/_H1N1_|_A/Baltimore/0125/2016_|_MP|_|_945522
-A_/_H1N1_|_A/Baltimore/0124/2016_|_MP|_|_963272
-A_/_H1N1_|_A/Arizona/26/2017_|_MP|_|_1017771
-A_/_H1N1_|_A/Arizona/23/2017_|_MP|_|_1041709
-A_/_H1N1_|_A/Alberta/RV3170/2016_|_MP|_|_870853
-A_/_H1N1_|_A/Alaska/53/2017_|_MP|_|_1060206
-A_/_H1N1_|_A/Alaska/20/2017_|_MP|_|_1065774
+KY925925
+KY925930
+KY925952
+KY925960
+KY925966
+KY925968
+KY925981
+KY925996
+KY926011
+KY926040
+KY926047
+KY926049
+KY926053
+KY926055
+KY926082
+KY926095
+KY926097
+KY926106
+KY926123
+KY926125
+KY926132
+KY926140
+KY950187
+KY950197
+KY950209
+KY950217
+KY950219
+MF039637
+MF039638
+MF370249
+MF370253
+MF370257
+MF441140
+MF441141
+MF441142
+MF441143
+MF441144
+MF441145
+MF441146
+MF441147
+MF441148
+MF441149
+MF441150
+MF441151
+MF441152
+MF441153
+MF441154
+MF441155
+MF441156
+MF441157
+MF441158
+MF441159
+MF441160
+MF441161
+MF441162
+MF441163
+MF441164
+MF441165
+MF441166
+MF441167
+MF441168
+MF441169
+MF441170
+MF441171
+MF441172
+MF441173
+MF441174
+MF593488
+MF593496
+MF593504
+MF593512
+MF593520
+MF593528
+MF593533
+MF593538
+MF593544
+MF593549
+MF593557
+MF593562
+MF593570
+MF593578
+MF593586
+MF593594
+MF593602
+MF593610
+MF593615
+MF593623
+MF599433
+MF599434
+MF599435
+MF599436
+MF599437
+MF599438
+MF599439
+MF599440
+MF599441
+MF599442
+MF599443
+MF629795
 ---------------------------------------------------------------------------
 
 END OF RESULTS
-Output file: output_from_100_FluA.txt
-Fasta sequences for analysis: output_from_100_FluA.fasta
+Output file: output.txt
+Fasta sequences for analysis: output.fasta
