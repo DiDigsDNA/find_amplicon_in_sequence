@@ -3,7 +3,7 @@
     <requirement type="package" version="0.0.1">find_amplicon_in_sequence</requirement>
   </requirements>
   <command detect_errors="exit_code"><![CDATA[
-    $__tool_directory__/find_amplicon_in_sequence
+    $__tool_directory__/find_amplicon_in_sequence.py
     '$input_fasta'
     '$oligo_def_file'
     '$output_fasta'
