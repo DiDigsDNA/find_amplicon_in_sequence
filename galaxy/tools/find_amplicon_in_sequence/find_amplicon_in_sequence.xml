@@ -1,0 +1,33 @@
+<tool id="find_amplicon_in_sequence" name="Find Amplicon In Sequence" version="0.0.1">
+  <requirements>
+    <requirement type="package" version="1.70">biopython</requirement>
+  </requirements>
+  <command detect_errors="exit_code"><![CDATA[
+    $__tool_directory__/find_amplicon_in_sequence.py
+    '$input_fasta'
+    '$oligo_def_file'
+    '$output_fasta'
+    '$output_txt'
+  ]]></command>
+  <inputs>
+    <param name="input_fasta" format="fasta" type="data" />
+    <param name="oligo_def_file" format="csv" type="data" />
+  </inputs>
+  <outputs>
+      <data format="fasta" name="output_fasta"></data>
+      <data format="txt" name="output_txt"></data>
+  </outputs>
+  <tests>
+    <test>
+      <param name="input_fasta" value="100_FluA_H1N1_M_2016_2017.fasta" />
+      <param name="oligo_def_file" value="Flu4plex_FluA_oligo_definitions.csv" />
+      <output name="output_fasta" value="output.fasta" />
+      <output name="output_txt" value="output.txt" />
+    </test>
+  </tests>
+  <help><![CDATA[
+    Upload a fasta file containing full length target sequences and a PCR assay-specific oligonucleotide definition(.csv) file.
+  ]]></help>
+  <citations>
+  </citations>
+</tool>
