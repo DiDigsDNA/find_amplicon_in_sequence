@@ -1,6 +1,6 @@
 <tool id="find_amplicon_in_sequence" name="Find Amplicon In Sequence" version="0.0.1">
   <requirements>
-    <requirement type="package" version="0.0.1">find_amplicon_in_sequence</requirement>
+    <requirement type="package" version="1.70">biopython</requirement>
   </requirements>
   <command detect_errors="exit_code"><![CDATA[
     $__tool_directory__/find_amplicon_in_sequence.py
@@ -26,7 +26,7 @@
     </test>
   </tests>
   <help><![CDATA[
-    Upload a fasta file containing full length target sequences and a PCR assay - specific oligonucleotide definition (.csv) file.
+    Upload a fasta file containing full length target sequences and a PCR assay-specific oligonucleotide definition(.csv) file.
   ]]></help>
   <citations>
   </citations>
